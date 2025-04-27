@@ -9,4 +9,4 @@ Esta es una aplicación web desarrollada en Streamlit para visualizar datos de a
 [Acceder a la aplicación en Render](https://vehicle-dashboard-87ep.onrender.com/)
 
 ## Enlace del repo en GitHub:
-(https://github.com/FiliPolla/vehicle-dashboard.git)
+[Acceder a la Repositorio en Github](https://github.com/FiliPolla/vehicle-dashboard.git)
