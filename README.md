@@ -4,6 +4,12 @@ Proyecto para Sprint 7 - Panel de control con Streamlit y Render
 
 Esta es una aplicación web desarrollada en Streamlit para visualizar datos de anuncios de vehículos.
 
+## Funcionalidades:
+- Visualizar histograma de odómetro.
+- Visualizar gráfico de dispersión entre kilometraje y precio.
+- Uso de Streamlit, pandas y plotly-express.
+- Desplegada en Render.
+
 ## Enlace de la aplicación en Render:
 
 [Acceder a la aplicación en Render](https://vehicle-dashboard-87ep.onrender.com/)
